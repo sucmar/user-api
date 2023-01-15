@@ -5,6 +5,7 @@ This project contains a basic user-api request `CRUD` and has been created using
  email: mabsbaltazar@gmail.com
  cel: 60717546
 ### github Repository
+branch name: `main` 
 https://github.com/sucmar/user-api
 
 ### Instalation
